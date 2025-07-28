@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JKeonshin)](https://github.com/anuraghazra/github-readme-stats)
 
 # 안녕하세요 테스트입니다. 
 
