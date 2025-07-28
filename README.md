@@ -3,6 +3,8 @@
 
 # 안녕하세요 테스트입니다. 
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+
 **Jkeonshin/Jkeonshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
